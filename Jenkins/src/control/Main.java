@@ -14,7 +14,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("holii desde control");
+		System.out.println("holii desde control2");
 
 	}
 

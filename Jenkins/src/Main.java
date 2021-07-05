@@ -1,7 +1,6 @@
 /**
  * Main.java
  */
-package control;
 
 /**
  * @author Usoa Larrarte
@@ -10,10 +9,12 @@ package control;
  */
 public class Main {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
-
-		System.out.println("Holii");
+		// TODO Auto-generated method stub
 
 	}
-	
+
 }

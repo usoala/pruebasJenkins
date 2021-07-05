@@ -9,7 +9,12 @@
  */
 public class Main {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		System.out.println("holiisss desde development con email y slack");
+		// TODO Auto-generated method stub
+
 	}
+
 }
